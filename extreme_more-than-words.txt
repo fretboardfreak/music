@@ -49,3 +49,35 @@ Extreme - More Than Words
 | *PreChorus*
 | *Chorus*
 | *Outro*
+
+----
+
+Chord Progression Rhythm Breakdown
+==================================
+
+.. note:: There are some bars where the chords start an eigth note early, but
+          I've only illustrated that for a few bars in the verse.  As you can
+          see it makes it much harder to see what's going on when it's all
+          written out like that.
+
+| *Intro*
+| | G    \    G/B  \    | C9   \    \    \    | Am7  \    \    \    | C    \    D    \    :|
+|
+| *Verse*
+| | G    \    G/B  \    | C9   \    \    \    | Am7  \    \    \    | C    \    D    \    |
+| | G    \    G/B  \    | C9   \    \    \    | Am7  \    \    \    | C    \    D    \    |
+| | Em   \    \    \    | Am7  \    \    \    | D    \    \    \  G |   \   D/F#   \   Em |
+| | \    \    Em/B \    | Am7  \    \    \    | D2   \    \    \ G7 | \    \    G7/B \    |
+| | C    \    \    \    |
+|
+| *PreChorus*
+| | Cm   \    \    \    | G    \    \    \    | \    \    \    \    | Em7  \    \    \    |
+| | Am7  \    \    \    | D7   \    \    \    |
+|
+| *Chorus*
+| | G    G/B  G    G/B  | D/F# \    \    \    | Em   \    Bm7  C    | \    \    \    C/B  |
+| | Am7  \    \    \    | \    \    D    \    |
+| | G    G/B  G    G/B  | D/F# \    \    \    | Em   \    Bm7  C    |
+| | Am7  \    \    \    | \    \    D7   \    |
+| | G    \    G/B  \    | C9   \    \    \    | Am7  \    \    \    | C    \    D    \    |
+| | G    \    G/B  \    | C9   \    \    \    | Am7  \    \    \    | D7   \    \    \    |
