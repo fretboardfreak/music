@@ -2,6 +2,9 @@
 Manitoba Hal - Losing My Race With The Reaper
 =============================================
 
+:date: 2013-02-24 20:20
+:category: music
+
 Chords of Interest::
 
     Asus4    Am/F#    Asus4/F#
