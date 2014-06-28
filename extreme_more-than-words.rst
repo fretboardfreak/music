@@ -2,6 +2,9 @@
 Extreme - More Than Words
 =========================
 
+:date: 2013-02-24 20:20
+:category: music
+
 | *Intro* { G G/B | C9   | Am7  | C  D :| }
 |
 | *Verse*
