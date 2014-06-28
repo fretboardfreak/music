@@ -4,8 +4,9 @@ Mumford and Sons - I Will Wait
 
 :date: 2014-06-28 09:30
 :category: music
+:summary:
 
-*capo on 1st fret* ::
+*capo on 1st fret*::
 
     {Intro | Am  | Em7  | C  F  | C  G  :| x2 }
     {Verse}
