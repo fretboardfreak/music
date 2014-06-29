@@ -2,6 +2,9 @@
 Rise Against - Prayer of the Refugee
 ====================================
 
+:date: 2013-05-12 20:13
+:category: music
+
 | Warm yourself by the fire, son,
 | And the morning will come soon.
 | I'll tell you stories of a better time,
