@@ -2,6 +2,9 @@
 Foo Fighters - Monkey Wrench
 ============================
 
+:date: 2013-04-14 08:34
+:category: music
+
 | what have we done with innocence
 | it disappeared with time
 | it never made much sense
