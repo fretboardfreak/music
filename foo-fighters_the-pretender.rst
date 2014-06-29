@@ -2,6 +2,9 @@
 Foo Fighters - The Pretender
 ============================
 
+:date: 2013-04-14 08:48
+:category: music
+
 | Keep you in the dark, You know they all pretend
 | Keep you in the dark And so it all began
 |
