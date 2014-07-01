@@ -2,7 +2,11 @@
 Music Theory
 ============
 
-:author: Curtis Sand
+:date: 2012-10-23 15:23
+:category: music
+:summary: My own summary of the music theory that I have learned.
+
+**This page is a work in progress.  Please check back soon for more updates**
 
 .. topic:: Notation Legend
 
