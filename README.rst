@@ -2,7 +2,10 @@
 Music
 =====
 
-This repo contains various music references, song lyrics, and cheet sheets.
+:date: 2016-01-01 01:00
+:category: music
+:summary: This repo contains various music references, song lyrics, and cheet
+          sheets.
 
 Although I am maintaining the content here, I do not claim any rights to the
 songs, music or lyrics.  I am hoping that this will be considered fair use.
