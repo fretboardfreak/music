@@ -22,6 +22,8 @@ Black Label Society - Heart of Gold
     Keeps me searching for a Heart Of Gold
     And I'm getting old
 
+    (hook x2)
+
     (verse)
     I've been to Hollywood
     I've been to Redwood
