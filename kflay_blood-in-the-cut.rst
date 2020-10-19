@@ -3,6 +3,8 @@ Kflay - Blood in the Cut
 
 ::
 
+    {intro: riff x4}
+
     The boy I love's got another girl
     He might be fucking her right now
     I don't have an apartment
@@ -25,10 +27,10 @@ Kflay - Blood in the Cut
     I need the buzz of a sub
     Need the crack of a whip
     Need some blood in the cut
-    I need blood in the cut
-    I need blood in the cut
+    I need blood in the cut  {chug E}
+    I need blood in the cut  {chug E}
 
-    {hook riff distorted}
+    {hook riff distorted x2}
 
     Met back up with the boy I love
     Cried on the streets of San Francisco
@@ -42,12 +44,16 @@ Kflay - Blood in the Cut
     Say a word, do it soon
     It's too quiet in this room
 
-    {hook riff distorted}
+    {chorus}
 
-    {bridge: G A E}
+    {hook riff distorted x2}
 
-    Cut...
+    {bridge: G A E E x2}
+    (high register, Ahhhhh  (vocal B A G E)}
 
-    {na na na's}
+    {3 bars percussive build}
+                                Cut!
+
+    {na na na's (repeat the melody 4 times)}
 
     {chorus}
