@@ -10,6 +10,24 @@ Lindsey Sterling - Roundtable Rival
     D F D F D C D | D F D F^ D
     D F D F D C D | A# A D
 
+    Intro
+    Bass
+    HG x3
+     slide
+    chorus x2
+    Bass
+     bass with blasts
+    bass 1/2
+    HG
+     slide
+    chorus x2
+    Bass quiet
+     low slide -> squealies
+    chorus x4
+
+
+First pass at the cheet sheet::
+
     intro (lindsay lead w/percussion)       0:00
     verse                                   0:17
     verse (dont play the last E)            0:24
